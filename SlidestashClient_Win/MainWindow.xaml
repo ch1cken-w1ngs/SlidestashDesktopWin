@@ -13,11 +13,24 @@
         </Grid.Background>
 
         <Grid.ColumnDefinitions>
-            
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
         </Grid.ColumnDefinitions>
 
         <Grid.RowDefinitions>
-            
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
         </Grid.RowDefinitions>
+        
+        <!--Text-->
+        <TextBlock Text="Welcome to" FontSize="50" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" Foreground="White" FontWeight="SemiBold"/>
+
+
+
     </Grid>
 </Window>
