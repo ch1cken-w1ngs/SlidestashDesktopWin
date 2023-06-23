@@ -1,0 +1,23 @@
+﻿<Window x:Class="SlidestashClient_Win.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SlidestashClient_Win"
+        mc:Ignorable="d"
+        ResizeMode="CanMinimize"
+        Title="Slidestash" Height="500" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\Johann\OneDrive\Dokumente\Coding Projects\Github Repos\SlidestashDesktopWin\SlidestashClient_Win\resc\bg_slidestash.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <Grid.ColumnDefinitions>
+            
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            
+        </Grid.RowDefinitions>
+    </Grid>
+</Window>
