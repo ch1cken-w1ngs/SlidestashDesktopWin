@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Johann\OneDrive\Dokumente\Coding Projects\Github Repos\SlidestashDesktopWin\SlidestashClient_Win\App.xaml
-11407045341
+5-949755673
 
-5-1257963509
+9545224012
 194-1103864946
-MainWindow.xaml;
+LoginWindow.xaml;MainMenu.xaml;MainWindow.xaml;RegisterWindow.xaml;Startscreen.xaml;
 
 True
 
